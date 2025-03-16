@@ -54,6 +54,7 @@ Sanberbook dibangun menggunakan:
 5. Jalankan migrasi database
    ```
    php artisan migrate
+   php artisan db:seed
    ```
 
 6. Jalankan server
